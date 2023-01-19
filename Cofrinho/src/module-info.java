@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author iamca
+ *
+ */
+module Cofrinho {
+}

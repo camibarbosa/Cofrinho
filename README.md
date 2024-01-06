@@ -1,5 +1,5 @@
   <h2>Cofrinho de moedas</h2>
-  <h3>Atividade prática realizada na disciplina de POO do curso de ADS da universidade UNINTER</h3>
+  <h3>Atividade prática realizada na disciplina de POO do curso de ADS </h3>
   
   <div>
       <h2>Sobre</h2>
